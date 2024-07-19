@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** Rust, Golang,  JavaScript, System Design.**
 
-- 💬 Ask me about **JavaScript,MEARN, React.**
+- 💬 Ask me about **Golang, NodeJs, Scaling, JavaScript,MEARN, React.**
 
 - 📫 How to reach me **khanishan81@gmail.com**
 
