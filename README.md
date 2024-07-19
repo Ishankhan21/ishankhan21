@@ -5,7 +5,7 @@
 
 <image align="right" alt="codingGif" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47eseejro12y21uyad9nr1kdqh7xv6slz7keiumzdw&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **GoLang, Rust, JavaScript, System Design.**
+- 🌱 I’m currently learning ** Rust, Golang,  JavaScript, System Design.**
 
 - 💬 Ask me about **JavaScript,MEARN, React.**
 
